@@ -3,7 +3,7 @@
 </div>  
   
 
-### Hi, I am Muhamad Iqbal Nurmanditya, a Generalist in the IT and Digital Creative world as well as the founder of Unicode Creative located in Indonesia :Indonesia: . My dream now is to help humans by making things easier but not only helping but also educating the use of technology so that we are not controlled by technology, but we control it.
+### Hi, I am Muhamad Iqbal Nurmanditya, a Generalist in the IT and Digital Creative world as well as the founder of Unicode Creative located in Indonesia :indonesia:. My dream now is to help humans by making things easier but not only helping but also educating the use of technology so that we are not controlled by technology, but we control it.
 
 The plan being worked on is to help MSMEs, Tourism Villages, and the community use technology so that they are not left behind. I believe technology can use for promotion and management.  
   
