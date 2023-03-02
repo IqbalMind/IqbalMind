@@ -3,9 +3,9 @@
 </div>  
   
 
-### Hi, I am Muhamad Iqbal Nurmanditya, a Generalist in the IT and Digital Creative world as well as the founder of Unicode Creative located in Indonesia :indonesia:. My dream now is to help humans by making things easier but not only helping but also educating the use of technology so that we are not controlled by technology, but we control it.
+### Hi, I am Muhamad Iqbal Nurmanditya, a Generalist in the IT and Digital Creative world with expertise in areas such as Data Science, IT Business Analysis, and more. I am also the founder of Unicode Creative, located in Indonesia 🇮🇩. My dream is to use technology to make life easier for people while also educating them on how to control technology instead of being controlled by it.
 
-The plan being worked on is to help MSMEs, Tourism Villages, and the community use technology so that they are not left behind. I believe technology can use for promotion and management.  
+The plan I am currently working on is to assist MSMEs, Tourism Villages, and the wider community in adopting technology, so that they can stay competitive and not be left behind in this rapidly evolving digital landscape. I strongly believe that technology can be leveraged for both promotional and operational purposes, and my aim is to educate and empower individuals and businesses to make the most of these opportunities. In addition to my generalist IT and Digital Creative expertise, I also have experience as a Data Scientist and IT Business Analyst. 
   
 
 - 🔭 I’m currently working on [Netes](https://github.com/rishavanand/github-profilinator) and [Kemenparekraf](https://kemenparekraf.go.id/) as support for digitalization with my fellow ([Unicode Creative](https://uncodecreative.com))  
@@ -85,7 +85,7 @@ The plan being worked on is to help MSMEs, Tourism Villages, and the community u
 <a href="https://github.com/iqbalmind" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
+<a href="https://linkedin.com/in/iqbalmind" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/iqbalmind" target="_blank">
