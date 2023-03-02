@@ -8,7 +8,7 @@
 The plan being worked on is to help MSMEs, Tourism Villages, and the community use technology so that they are not left behind. I believe technology can use for promotion and management.  
   
 
-- 🔭 I’m currently working on [Netes](https://github.com/rishavanand/github-profilinator) and [Kemenparekraf](https://kemenparekraf.go.id/) as support for digitalization with my company ([Unicode Creative](https://uncodecreative.com))  
+- 🔭 I’m currently working on [Netes](https://github.com/rishavanand/github-profilinator) and [Kemenparekraf](https://kemenparekraf.go.id/) as support for digitalization with my fellow ([Unicode Creative](https://uncodecreative.com))  
   
 
 - 🌱 I’m currently learning Bussiness Investment and Human Capital Management  
