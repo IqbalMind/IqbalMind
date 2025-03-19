@@ -1,26 +1,49 @@
 <div align="center">
-<img src="https://netes.id/wp-content/uploads/2022/09/header-github.gif" align="center" style="width: 100%" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQH82Z8fFdyLbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711889036981?e=1747872000&v=beta&t=EMVZ8yTuuRVH6oTNVBAn0HKplEs_pzNK9f5yWSbw228" align="center" style="width: 100%" />
 </div>  
-  
 
-### Hi, I am Muhamad Iqbal Nurmanditya, a Generalist in the IT and Digital Creative world with expertise in areas such as Data Science, IT Business Analysis, and more. I am also the founder of Unicode Creative, located in Indonesia 🇮🇩. My dream is to use technology to make life easier for people while also educating them on how to control technology instead of being controlled by it.
+### Hi, I am Muhamad Iqbal Nurmanditya 👋  
+A Generalist in the IT and Digital Creative world with expertise in areas such as **IT Business Analysis, System Integration, Digitalization**, and more. I am also the founder of **Unicode Creative**, located in Indonesia 🇮🇩.  
 
-The plan I am currently working on is to assist MSMEs, Tourism Villages, and the wider community in adopting technology, so that they can stay competitive and not be left behind in this rapidly evolving digital landscape. I strongly believe that technology can be leveraged for both promotional and operational purposes, and my aim is to educate and empower individuals and businesses to make the most of these opportunities. In addition to my generalist IT and Digital Creative expertise, I also have experience as a Data Scientist and IT Business Analyst. 
-  
+My dream is to use **technology to make life easier for people** while also educating them on how to **control technology instead of being controlled by it**.  
 
-- 🔭 I’m currently working on [Netes](https://github.com/rishavanand/github-profilinator) and [Kemenparekraf](https://kemenparekraf.go.id/) as support for digitalization with my fellow ([Unicode Creative](https://uncodecreative.com))  
-  
+🔭 **Currently Working On:**  
+- [Kemenparekraf](https://kemenparekraf.go.id/) as support for digitalization with my fellow **[Unicode Creative](https://uncodecreative.com)**  
 
-- 🌱 I’m currently learning Bussiness Investment and Human Capital Management  
-  
+🌱 **Currently Learning:**  
+- Business Investment and Human Capital Management  
 
-- ❓ Ask me about anything related to Digital Creative and related technologies  
-  
+❓ **Ask me about:**  
+- Anything related to **Digital Creative & Emerging Technologies**  
 
-- ⚡ Fun fact: I always think and develop ideas from strange things  
-  
+⚡ **Fun Fact:**  
+- I develop ideas from **unusual perspectives** 😆  
 
-<br/>  
+---
+
+## 🏆 My Achievements  
+
+I’m incredibly grateful for the opportunities that have shaped my journey.  
+
+- 🥈 **2nd Place** - [International Innovation Academic Competition and Exhibitions (2020)](https://pasjabar.com/2020/12/12/usbb-juara-2-lomba-international-inovasi-akademik/)  
+- 🌍 **7th Place** - [Microsoft Office Specialist World Championship (2021)](https://certiport.pearsonvue.com/Blog/2021/November/2021-Microsoft-Office-Specialist-World-Champions.aspx)  
+
+These milestones wouldn’t have been possible without the support of my mentors, peers, and the amazing communities that foster young talent. Special thanks to **MyEduSolve, ITS, Tekno Sains Academy, and Universitas Sangga Buana** for paving the way for students like me to explore, learn, and compete on an international level.  
+
+To all young professionals out there: **keep challenging yourself, keep learning, and never stop believing in your potential.** 🚀  
+
+## 📜 Related Articles:
+- [PramborsFM - Kompetisi Microsoft & Adobe](https://www.pramborsfm.com/tech/kembangkan-kemampuan-anak-muda-myedusolve-adakan-kompetisi-microsoft-dan-adobe)
+- [Tempo - Microsoft Adobe National Championship](https://event.tempo.co/read/1560756/microsoft-adobe-national-championship-hadir-kembali)
+- [Times Indonesia - MyEduSolve & ITS](https://timesindonesia.co.id/pendidikan/393822/myedusolve-gandeng-its-gelar-microsoft--adobe-national-championship-2022)
+- [Jurnal Pekan - MyEduSolve & ITS](https://jurnalpekan.com/news/detail/2131/myedusolve-bersama-its-dan-tekno-sains-academy-akan-gelar-microsoft--adobe-national-championship-2022)
+- [PramborsFM - Indonesian Representatives in Microsoft & Adobe Competition](https://www.pramborsfm.com/news/4-pelajar-indonesia-siap-jadi-perwakilan-kompetisi-microsoft-dan-adobe-internasional)
+- [Warta Event - MyEduSolve & ITS](https://wartaevent.com/myedusolve-bersama-its-dan-tekno-sains-academy-selenggarakan-microsoft-adobe-national-championship-2022%EF%BF%BC/2/)
+- [Islampos - Universitas Sangga Buana Student Wins International Innovation Competition](https://www.islampos.com/mahasiswa-teknik-universitas-sangga-buana-raih-juara-lomba-international-innovation-academic-competition-and-exhibitions-218660/)
+
+---
+
+⭐ Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/iqbalmind/)** 
 
 
 ## My Nerds Power
@@ -117,6 +140,3 @@ The plan I am currently working on is to assist MSMEs, Tourism Villages, and the
   
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=21t2hmlvdarp2m2smncas2eki&cover_image=true&theme=default" /></div>  
-<br />
