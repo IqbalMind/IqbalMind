@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQH82Z8fFdyLbg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1711889036981?e=1747872000&v=beta&t=EMVZ8yTuuRVH6oTNVBAn0HKplEs_pzNK9f5yWSbw228" align="center" style="width: 100%" />
+<img src="https://i.imgur.com/r0aXZp1.jpeg" align="center" style="width: 100%" />
 </div>  
 
 ### Hi, I am Muhamad Iqbal Nurmanditya 👋  
