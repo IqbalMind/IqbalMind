@@ -158,4 +158,4 @@ I am open to discussions on **advisory roles, enterprise digital transformation,
 ![Iqbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iqbalmind&show_icons=true&count_private=true&hide_border=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalmind&layout=compact&hide_border=true&theme=github_dark)
 
-[![Profile views](https://komarev.com/ghpvc/?username=iqbalmind&label=Profile%20Views&color=0969da&style=flat-square)](https://github.com/iqbalmind/IqbalMind)
+![](https://komarev.com/ghpvc/?username=iqbalmind&color=0969da&style=flat-square&label=Profile+Views)
