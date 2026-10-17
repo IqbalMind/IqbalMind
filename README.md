@@ -6,8 +6,10 @@
 
 *Bridging executive business strategy, data analytics, and modern AI systems to build scalable digital transformation and measurable organizational impact.*
 
+[![Website](https://img.shields.io/badge/iqbalmind.id-4169E1?style=for-the-badge&logo=safari&logoColor=white)](https://iqbalmind.id)
+[![Playground](https://img.shields.io/badge/code.iqbalmind.id-100000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.iqbalmind.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbalmind)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalmind)
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalmind)
 [![Unicode Creative](https://img.shields.io/badge/Unicode_Creative-FF5722?style=for-the-badge&logo=google-cloud&logoColor=white)](https://uncodecreative.com)
 
 ---
@@ -23,6 +25,17 @@ My philosophy centers on **empowering leadership through data and autonomous int
 ## 💼 Core Competencies & Strategic Pillars
 
 ```mermaid
+---
+config:
+  theme: dark
+  themeVariables:
+    cScale0: '#334155'
+    cScaleLabel0: '#ffffff'
+    cScale1: '#4169E1'
+    cScaleLabel1: '#ffffff'
+    cScale2: '#0ea5e9'
+    cScaleLabel2: '#ffffff'
+---
 mindmap
   root((Iqbal's Strategic Focus))
     Managerial & Strategy
@@ -36,6 +49,7 @@ mindmap
       Predictive Analytics & Forecasting
       Enterprise Data Warehousing & SQL
     Applied AI & Automation
+      Workflow Automation & RPA
       Frontier Models Claude, Gemini & OpenAI
       Open Weights DeepSeek & Hermes
       Autonomous Agents OpenClaw & Multi-Agent Swarms
@@ -55,6 +69,7 @@ mindmap
 ### 3. 🤖 Applied AI & Cognitive Systems
 - **Multi-Model Orchestration:** Leveraging frontier proprietary models (**Anthropic Claude**, **Google Gemini**, **OpenAI**) alongside state-of-the-art open-weights reasoning architectures (**DeepSeek-V3 / R1**, **Nous Hermes**) to optimize cost, latency, and cognitive capabilities.
 - **Agentic Architectures & Autonomous Workflows:** Designing robust agent pipelines with **OpenClaw**, autonomous task loops, and function calling to execute multi-step research, operational automation, and code synthesis.
+- **Workflow Automation & RPA:** Implementing resilient automation matrices connecting APIs, event triggers, and RPA tools (e.g. n8n, automated scripts) with cognitive decision layers.
 - **RAG & Knowledge Retrieval:** Implementing vector embeddings, contextual retrieval, and hybrid search pipelines to ground models in verified enterprise data.
 - **AI Governance & Strategic Integration:** Aligning token economics, privacy compliance, prompt evaluation, and ethical risk management with overarching business goals.
 
@@ -62,6 +77,8 @@ mindmap
 
 ## 🔭 Current Strategic Initiatives
 
+- 🌐 **Personal Hub & Architecture Insights:** Publishing digital transformation case studies, strategy notes, and essays at [iqbalmind.id](https://iqbalmind.id).
+- 🧪 **Code & Prototyping Playground:** Experimenting with live open-source components, agent sandboxes, and interactive builds at [code.iqbalmind.id](https://code.iqbalmind.id).
 - 🏛️ **Digital Governance & Transformation:** Supporting national-scale digitalization frameworks with [Kemenparekraf](https://kemenparekraf.go.id/) in partnership with [Unicode Creative](https://uncodecreative.com).
 - 🧠 **Enterprise Applied AI & Agent Systems:** Building multi-agent workflows using **OpenClaw**, **Claude**, and **DeepSeek / Hermes** for intelligent automation and data synthesis.
 - 📈 **Continuous Executive Growth:** Deepening expertise in Human Capital Architecture, Data-Driven Capital Allocation, and Scaled AI Product Management.
@@ -91,6 +108,7 @@ mindmap
 ![Excel / Modeling](https://img.shields.io/badge/Financial_%26_Data_Modeling-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ### 🤖 Applied Artificial Intelligence & Automation
+![Workflow Automation & RPA](https://img.shields.io/badge/Workflow_Automation_%26_RPA-4169E1?style=flat-square)
 ![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-D97706?style=flat-square&logo=anthropic&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek_(V3%20%7C%20R1)-1E40AF?style=flat-square&logo=deepseek&logoColor=white)
 ![Nous Hermes](https://img.shields.io/badge/Nous_Hermes_(Open--Weights)-6B21A8?style=flat-square)
@@ -101,7 +119,6 @@ mindmap
 ![RAG Pipelines](https://img.shields.io/badge/RAG_%26_Vector_Search-FF6F00?style=flat-square)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-10B981?style=flat-square)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation_(n8n%20%7C%20APIs)-EA4B88?style=flat-square)
 
 ### ☁️ Infrastructure & Software Architecture
 ![Cloud Architecture](https://img.shields.io/badge/AWS_%26_GCP-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
@@ -131,8 +148,10 @@ mindmap
 
 I am open to discussions on **advisory roles, enterprise digital transformation, AI/analytics roadmapping, and strategic technology consulting**.
 
+[![Personal Website](https://img.shields.io/badge/Website-iqbalmind.id-4169E1?style=for-the-badge&logo=safari&logoColor=white)](https://iqbalmind.id)
+[![Playground](https://img.shields.io/badge/Playground-code.iqbalmind.id-100000?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.iqbalmind.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iqbalmind)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalmind)
+[![GitHub](https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iqbalmind)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iqbalmind)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/iqbalmind)
 
